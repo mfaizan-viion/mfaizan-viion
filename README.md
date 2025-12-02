@@ -12,7 +12,7 @@ Hi! 👋 I'm **M. Faizan**, a passionate Core PHP & Laravel Developer currently 
 
 - **Languages:** PHP, JavaScript, HTML5, CSS3, SQL
 - **Frameworks:** Laravel, Core PHP, Bootstrap, jQuery
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL
 - **Version Control:** Git/GitHub
 - **APIs:** RESTful API development and integration
 
