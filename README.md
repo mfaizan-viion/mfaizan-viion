@@ -31,8 +31,8 @@ Hi! 👋 I'm **M. Faizan**, a passionate Core PHP & Laravel Developer currently 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) <!-- Replace with your LinkedIn URL -->
-- [GitHub](https://github.com/mfaizan-viion)
+- [LinkedIn](https://www.linkedin.com/in/mfaizanqayyum) <!-- Replace with your LinkedIn URL -->
+- [GitHub](https://github.com/mfaizanqayyum)
 
 ---
 
